@@ -37,6 +37,12 @@
 <kbd>[![Materio - Free MUI React NextJS Admin Template Demo Screenshot](https://user-images.githubusercontent.com/64475785/158384546-57879619-2d6d-4df6-8dc3-b4e53a536d50.png)](https://themeselection.com/products/materio-free-mui-react-nextjs-admin-template/)</kbd>
 
 # More Theme - https://minimals.cc/
+![Screenshot from 2023-09-08 17-41-03](https://github.com/bhuwan-CrossMl/Dashboard-theme-Website-in-Mui/assets/132264068/c8cf1fb4-00df-477f-a2a7-bff1cf982962)
+
+![Screenshot from 2023-09-08 17-40-37](https://github.com/bhuwan-CrossMl/Dashboard-theme-Website-in-Mui/assets/132264068/ec64113e-11b6-4de8-b284-b52a8c200f0e)
+
+
+
 
 ## Introduction 🚀
 
