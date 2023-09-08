@@ -36,6 +36,8 @@
 
 <kbd>[![Materio - Free MUI React NextJS Admin Template Demo Screenshot](https://user-images.githubusercontent.com/64475785/158384546-57879619-2d6d-4df6-8dc3-b4e53a536d50.png)](https://themeselection.com/products/materio-free-mui-react-nextjs-admin-template/)</kbd>
 
+# More Theme - https://minimals.cc/
+
 ## Introduction 🚀
 
 If you’re a developer looking for most Powerful & comprehensive [**Free MUI React NextJS Admin Dashboard Template**](https://themeselection.com/products/materio-free-mui-react-nextjs-admin-template/) built for developers, rich with features, and highly customizable, look no further than Materio. We’ve followed the highest industry standards to bring you the very best admin template that is not only easy to use but highly scalable. Offering ultimate convenience and flexibility, you’ll be able to build whatever application you want with very little hassle.
